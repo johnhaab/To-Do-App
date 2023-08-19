@@ -1,6 +1,6 @@
 # SimpleTasks
 
-**SimpleTasks** is my first Python project. It's a command-line based to-do list application that allows you to manage your tasks, set priorities, and keep track of due dates. I learned a lot while building this project and wanted to share it with others. Feel free to use, modify, or report any issues on the GitHub repository: [GitHub Repository](https://github.com/johnhaab/SimpleTasks)
+**SimpleTasks** is my first Python project. It's a command-line based to-do list application that allows you to manage your tasks, set priorities, and keep track of due dates. I learned a lot while building this project and wanted to share it with others. Feel free to use, modify, or report any issues on the GitHub repository: [GitHub Repository](https://github.com/johnhaab/simple-tasks)
 
 ## Overview
 
@@ -19,12 +19,12 @@ SimpleTasks is a basic to-do list application written in Python. It enables you 
 
 1. Clone the repository to your local machine:
 ```bash
-    git clone https://github.com/johnhaab/SimpleTasks.git
+    git clone https://github.com/johnhaab/simple-tasks.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-   cd SimpleTasks
+   cd simple-tasks
 ```
 
 3. Run the application:
